@@ -1,2 +1,2 @@
-start C:\Users\bruncaj.hartin\Documents\SAVER.cmd
+start SAVER.cmd
 taskkill /f /im cmd.exe
