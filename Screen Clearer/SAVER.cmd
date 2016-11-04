@@ -1,2 +1,2 @@
-start C:\Users\bruncaj.hartin\Documents\COMMANDPROMPTKILLER.cmd
+start COMMANDPROMPTKILLER.cmd
 taskkill /f /im wscript.exe 
