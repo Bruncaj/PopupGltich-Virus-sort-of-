@@ -4,3 +4,5 @@ I am not responsible if your system dies, or is irretrievable.
 Please don't do this on other computers.
 This should be used for educational things.
 Enjoy!
+Make sure you use the branch of POPUP
+Also make sure you add the file location of some of the vbs and bat files.
